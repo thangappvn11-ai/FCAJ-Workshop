@@ -1,5 +1,5 @@
 baseURL = "https://thangappvn11-ai.github.io/FCAJ-Workshop/"
-relativeURLs = false
+relativeURLs = true
 canonifyURLs = false
 defaultContentLanguage = "en"
 
