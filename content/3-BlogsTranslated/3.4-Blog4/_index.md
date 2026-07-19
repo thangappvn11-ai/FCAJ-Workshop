@@ -77,4 +77,4 @@ https://aws.amazon.com/blogs/aws/upgrade-amazon-eks-clusters-with-confidence-usi
 
 ---
 
-<img src="/images/blog4.png" style="max-width:100%; margin-bottom:16px;" />
+<img src="/images/Blog4.png" style="max-width:100%; margin-bottom:16px;" />
