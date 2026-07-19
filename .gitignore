@@ -4,3 +4,5 @@ public/*
 hugo-server-*.log
 
 document/
+/images/
+

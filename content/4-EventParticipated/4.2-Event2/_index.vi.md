@@ -53,3 +53,11 @@ AI hỗ trợ giải quyết việc sàng lọc CV tốn thời gian, khó đán
 ## Trải nghiệm và bài học rút ra
 
 Sự kiện giúp em tiếp cận các xu hướng Cloud Computing, AI Agent và DevOps hiện đại; đặc biệt là Agentic AI và AWS DevOps Agent. Em nhận ra AI không thay thế con người mà hỗ trợ và khuếch đại năng lực kỹ sư; Cloud, DevOps và AI đang hội tụ để tạo ra hệ thống tự động, thông minh hơn. Hiểu business domain và nhu cầu doanh nghiệp là yếu tố quan trọng để xây dựng giải pháp công nghệ hiệu quả.
+
+---
+
+### Hình ảnh sự kiện / Event Photos
+
+<img src="/images/evt2-7.png" style="max-width:100%; margin-bottom:16px;" />
+<img src="/images/evt2-10.png" style="max-width:100%; margin-bottom:16px;" />
+

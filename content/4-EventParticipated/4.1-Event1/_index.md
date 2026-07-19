@@ -55,3 +55,11 @@ Mô hình Multi-Agent System được minh họa qua bài toán đánh giá tín
 ## Trải nghiệm và bài học rút ra
 
 Sự kiện mang lại cơ hội học hỏi từ chuyên gia, tiếp cận AI Agent, Multi-Agent System, Amazon Quick và CloudFront, đồng thời kết nối với cộng đồng công nghệ. Em nhận ra công nghệ thay đổi rất nhanh, cần học tập liên tục, chủ động cập nhật kiến thức và tham gia cộng đồng để nâng cao năng lực trong Cloud và AI.
+
+---
+
+### Hình ảnh sự kiện / Event Photos
+
+<img src="/images/evt1-1.png" style="max-width:100%; margin-bottom:16px;" />
+<img src="/images/evt1-3.png" style="max-width:100%; margin-bottom:16px;" />
+

@@ -46,3 +46,11 @@ AI can address time-consuming CV screening, candidate-quality assessment, retent
 ## Experience and lessons learned
 
 The event offered practical exposure to Cloud Computing, AI Agent, and modern DevOps. It reinforced that AI amplifies engineers rather than replacing them, while Cloud, DevOps, and AI are converging to create more automated and intelligent systems. Understanding the business domain and enterprise needs is essential when designing effective technology solutions.
+
+---
+
+### Hình ảnh sự kiện / Event Photos
+
+<img src="/images/evt2-7.png" style="max-width:100%; margin-bottom:16px;" />
+<img src="/images/evt2-10.png" style="max-width:100%; margin-bottom:16px;" />
+
