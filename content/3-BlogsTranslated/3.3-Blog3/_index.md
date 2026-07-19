@@ -177,4 +177,4 @@ For large organizations facing IP constraints in hybrid AWS environments, Privat
 
 ![Blog 3](/images/Blog3-1.png)
 ![Blog 3](/images/Blog3-2.png)
-![Blog 3](/images/Blog3-3.png)
+![Blog 3](/images/blog3-3.png)

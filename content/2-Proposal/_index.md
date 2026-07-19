@@ -52,7 +52,7 @@ For the project scope, the main benefit is not only the low operating cost in th
 
 VDCMS applies a three-tier web architecture combined with asynchronous processing. The presentation layer includes Amazon S3 and Amazon CloudFront to serve the frontend SPA. The application layer includes AWS WAF, Application Load Balancer, and Amazon EC2 to protect, route, and process requests. The data layer includes Amazon RDS MySQL, Amazon S3, and supporting processing services such as Amazon SQS, Amazon Transcribe, Amazon SES, Amazon Cognito, AWS Secrets Manager, AWS Systems Manager, and Amazon CloudWatch.
 
-![VDCMS Architecture](/images/Architecture.png)
+![VDCMS Architecture](/images/Proposal.png)
 
 #### AWS Services Used
 

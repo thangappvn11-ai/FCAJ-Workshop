@@ -94,5 +94,5 @@ Nếu bạn đang xây dựng hệ thống serverless hoặc microservices trên
 
 ---
 
-![Blog 1](/images/Blog1.png)
+![Blog 1](/images/blog1-1.png)
 ![Blog 1](/images/Blog1-2.png)

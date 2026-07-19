@@ -51,7 +51,7 @@ Giải pháp giúp giảm thao tác nhập liệu thủ công khi tạo báo cá
 
 VDCMS áp dụng kiến trúc web ba lớp kết hợp xử lý bất đồng bộ. Lớp giao diện gồm Amazon S3 và Amazon CloudFront để phục vụ frontend SPA. Lớp ứng dụng gồm AWS WAF, Application Load Balancer và Amazon EC2 để bảo vệ, điều phối và xử lý request. Lớp dữ liệu gồm Amazon RDS MySQL, Amazon S3 và các dịch vụ hỗ trợ xử lý như Amazon SQS, Amazon Transcribe, Amazon SES, Amazon Cognito, AWS Secrets Manager, AWS Systems Manager và Amazon CloudWatch.
 
-![VDCMS Architecture](/images/Architecture.png)
+![VDCMS Architecture](/images/Proposal.png)
 
 #### Dịch vụ AWS sử dụng
 
