@@ -84,6 +84,9 @@ VDCMS applies a three-tier web architecture combined with asynchronous processin
 * **Secret Management:** AWS Secrets Manager stores necessary secrets to avoid hard-coding sensitive information in the source code.
 * **Monitoring:** CloudWatch collects metrics from WAF, RDS, and AWS services. EC2 application logs are currently stored in the systemd journal.
 
+<img src="/images/2-Proposal/edge_architecture.jpeg" style="max-width:100%; margin-bottom:16px;" />
+<img src="/images/2-Proposal/platform_architecture.jpeg" style="max-width:100%; margin-bottom:16px;" />
+
 ---
 
 ### 4. Technical Implementation

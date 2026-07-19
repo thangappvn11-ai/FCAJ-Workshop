@@ -21,7 +21,3 @@ During the internship, I participated in the following community events on Cloud
 **Role:** Attendee  
 **Focus:** Cloud careers, Agentic AI, Voice AI, AWS DevOps Agent, and AI for human-resource management.
 
-### [Events 3 & 4 – FCAJ Community Day: Learning Mindset, Prompt Engineering & Conquering Technology](4.3-Event3/)
-
-**Role:** Attendee  
-**Focus:** Learning motivation, Prompt Engineering, AI-ready fresher mindset, Software Engineering standards, Hackathon experience, self-confidence, procrastination psychology, and AWS Cloud Quest.

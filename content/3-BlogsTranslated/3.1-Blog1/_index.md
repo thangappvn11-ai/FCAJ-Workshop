@@ -95,3 +95,4 @@ If you're building serverless or microservices systems on AWS, especially as the
 ---
 
 ![Blog 1](/images/Blog1.png)
+![Blog 1](/images/Blog1-2.png)

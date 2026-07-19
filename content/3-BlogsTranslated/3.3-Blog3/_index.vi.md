@@ -175,4 +175,6 @@ Với các tổ chức lớn đang gặp bài toán thiếu IP trong môi trư�
 
 ---
 
-![Blog 1](/images/Blog1.png)
+![Blog 3](/images/Blog3-1.png)
+![Blog 3](/images/Blog3-2.png)
+![Blog 3](/images/Blog3-3.png)

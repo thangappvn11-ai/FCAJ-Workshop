@@ -21,7 +21,3 @@ Trong quá trình thực tập, em đã tham gia các sự kiện cộng đồng
 **Vai trò:** Người tham dự  
 **Nội dung:** Định hướng nghề nghiệp Cloud/AI, Agentic AI, Voice AI, AWS DevOps Agent và AI trong quản trị nhân sự.
 
-### [Sự kiện 3 & 4 – FCAJ Community Day: Tư duy học tập, Prompt Engineering & Chinh phục công nghệ](4.3-Event3/)
-
-**Vai trò:** Người tham dự  
-**Nội dung:** Động lực học tập, Prompt Engineering, tư duy fresher AI-ready, chuẩn Kỹ thuật phần mềm, kinh nghiệm Hackathon, tự tin, tâm lý trì hoãn và AWS Cloud Quest.
