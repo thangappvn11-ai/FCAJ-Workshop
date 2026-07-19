@@ -1,5 +1,6 @@
 ---
-title: "AWS Community Day June 2026"
+title: "Event 1"
+pre: " <b> 4.1. </b> "
 weight: 1
 chapter: false
 ---
@@ -62,4 +63,3 @@ Sự kiện mang lại cơ hội học hỏi từ chuyên gia, tiếp cận AI A
 
 <img src="/images/evt1-1.png" style="max-width:100%; margin-bottom:16px;" />
 <img src="/images/evt1-3.png" style="max-width:100%; margin-bottom:16px;" />
-

@@ -1,56 +1,78 @@
 ---
-title: "FCAJ Community Day June 2026"
+title: "Event 2"
 weight: 2
 chapter: false
+pre: " <b> 4.2. </b> "
 ---
 
 # FCAJ Community Day June 2026
 
-## Theme and purpose
+**Theme:** Cloud, AI & Agentic Applications in Modern Enterprises
 
-**Cloud, AI & Agentic Applications in Modern Enterprises**. The event shared Cloud Computing and AI trends, Agentic AI and DevOps Agent applications, practical Cloud/AI career perspectives, Voice AI and enterprise AI solutions, and the use of AI in DevOps, operations, and HR.
+## Event objectives
+
+- Share trends in Cloud Computing and AI for modern enterprises.
+- Introduce Agentic AI and DevOps Agent applications for system operations.
+- Provide practical career perspectives for Cloud and AI roles.
+- Introduce Voice AI, AI Agents, and enterprise AI solutions.
+- Show how AI can support DevOps, system operations, and human-resource management.
 
 ## Speakers
 
-Truong Tran (Noventiq), Steve Tran (CloudThinker), Trung Vu (Revve AI), Anh Dang (Noventiq), Nghi Danh (Renova Cloud), Kiet Tran (AWS Student Builder Group), Bao Phan and Nguyen Nguyen (Cloud Kinetics), and Toan Nguyen (AWS Security Builder).
+- Truong Tran — AI Solution Sales, Noventiq
+- Steve Tran — CTO/Founder, CloudThinker
+- Trung Vu — CEO, Revve AI
+- Anh Dang — Solution Sales, Noventiq
+- Nghi Danh — AI Engineer, Renova Cloud
+- Kiet Tran — AI Engineer, AWS Student Builder Group
+- Bao Phan and Nguyen Nguyen — Cloud Engineer, Cloud Kinetics
+- Toan Nguyen — AWS Security Builder
 
-## Key content
+## Key sessions
 
-### Cloud, AI, and career opportunities
+### 1. Cloud, AI, and career opportunities
 
-The sessions covered the journey from Developer to Solution Architect, Cloud Computing growth in Vietnam and globally, AI's impact on technology jobs, and the importance of continuous learning and early practical experience. AI will not completely replace engineers, but it will change how they work.
+This session covered the path from Developer to Solution Architect, the development of Cloud Computing in Vietnam and globally, and AI's impact on the technology job market. Continuous learning and early practical experience are essential: AI will not completely replace technology engineers, but it will change how they work.
 
-### Agentic AI for operations
+### 2. Agentic AI for system operations
 
-Modern microservice systems create more logs, monitoring and observability data, extend investigation/incident-response time, and increase infrastructure cost. An Agentic Platform can automate incident investigation, support Cloud cost optimization (FinOps), assist security testing, accelerate resolution, and improve operations-team productivity.
+As systems move to microservices, logs, monitoring, and observability data grow rapidly, while incident investigation and infrastructure costs increase. An Agentic Platform can automate incident investigation, support Cloud cost optimization (FinOps), assist security testing, and improve the operations team's productivity.
 
-### Voice AI and AI Agent
+### 3. Voice AI and AI Agents
 
-The Voice AI architecture includes Speech-to-Speech and Speech-to-Text → LLM → Text-to-Speech flows. The demo built a Voice Assistant on Amazon Bedrock, used a Knowledge Base for domain knowledge, and integrated AI Agents for product questions. Vietnamese remains a low-resource language, so appropriate datasets and models are needed for the local market.
+Voice AI can use either a Speech-to-Speech architecture or **Speech-to-Text → LLM → Text-to-Speech**. The demonstration built a Voice Assistant on Amazon Bedrock, used a Knowledge Base for domain knowledge, and integrated AI Agents to answer product questions. Vietnamese is a low-resource language, so it needs data and models suited to the Vietnamese market.
 
-### AWS DevOps Agent
+### 4. AWS DevOps Agent
 
-Distributed logs and tracing, slow root-cause analysis, and incomplete system context are common operational problems. AWS DevOps Agent uses Context Learning, Memory and Skill Learning, integrates with CloudWatch, Slack and ServiceNow, supports root-cause analysis, recommends remediation, and proposes long-term improvements. Its flow is: trigger incident → classify/investigate → propose remediation → propose lasting improvement.
+AWS DevOps Agent provides Context Learning, Memory, and Skill Learning. It integrates with CloudWatch, Slack, and ServiceNow, supports root-cause analysis, and recommends remediation and long-term improvements. The workflow is: trigger an incident, classify and investigate it, recommend a response, then recommend longer-term improvements.
 
-### AI in human-resource management
+### 5. AI for human-resource management
 
-AI can address time-consuming CV screening, candidate-quality assessment, retention, and recruitment workload through automated profile analysis, recruitment-supporting data, HR insights, and more effective HR strategies.
+AI can automatically analyze candidate profiles, generate data to support recruitment, provide workforce insights, and help build more effective HR strategies. These capabilities reduce CV-screening time, improve candidate evaluation, and reduce the workload associated with hiring.
 
-## Learning outcomes and application
+## Key takeaways
 
-- Cloud and AI are major future technology trends; continuous learning and adaptability are essential.
-- Agentic AI supports system operations; Voice AI and AI Agents can be built on AWS.
-- AI Agents can be applied to monitoring and operations; Amazon Bedrock can support project chatbots.
-- AI tools can improve development and operational productivity, alongside stronger Cloud and DevOps skills.
+- AI is strongly changing how software is built and operated; Cloud and AI are essential technology trends.
+- Agentic AI can support system operations, while DevOps Agents help streamline incident response.
+- Voice AI and AI Agents can be built on AWS with services such as Amazon Bedrock.
+- Continuous learning and proactive adaptation are vital for career growth.
+
+## Applying the learning
+
+- Research AI Agent integration for management and monitoring systems.
+- Explore Amazon Bedrock for project chatbots and Voice Assistants.
+- Apply AI tools to support software development and operations.
+- Strengthen Cloud and DevOps skills to meet future hiring requirements.
 
 ## Experience and lessons learned
 
-The event offered practical exposure to Cloud Computing, AI Agent, and modern DevOps. It reinforced that AI amplifies engineers rather than replacing them, while Cloud, DevOps, and AI are converging to create more automated and intelligent systems. Understanding the business domain and enterprise needs is essential when designing effective technology solutions.
+FCAJ Community Day June 2026 provided a meaningful opportunity to learn about Cloud Computing, AI Agents, and modern DevOps. The sessions on Agentic AI and AWS DevOps Agent highlighted new opportunities to automate system operations and clarified what enterprises expect from Cloud and AI engineers.
+
+AI does not completely replace people; it supports and amplifies engineers' capabilities. Cloud, DevOps, and AI are converging to create more automated and intelligent systems, so active learning, practical experience, and understanding business needs are essential to building effective solutions.
 
 ---
 
-### Hình ảnh sự kiện / Event Photos
+### Event photos
 
 <img src="/images/evt2-7.png" style="max-width:100%; margin-bottom:16px;" />
 <img src="/images/evt2-10.png" style="max-width:100%; margin-bottom:16px;" />
-
