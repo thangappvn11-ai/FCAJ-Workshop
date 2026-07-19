@@ -21,3 +21,4 @@ This workshop focuses on automating the full deployment and operation lifecycle 
 5. [Multi-Service Integration and Verification](5.5-Multi-Service-Integration/)
 6. [System Operation Testing](5.6-System-Operation-Testing/)
 7. [Clean up](5.7-Cleanup/)
+8. [Additional Resources](5.8-Additional-Resources/)

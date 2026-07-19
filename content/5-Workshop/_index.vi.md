@@ -21,3 +21,4 @@ Workshop này tập trung vào việc tự động hóa toàn bộ quy trình tr
 5. [Xác thực trạng thái tài nguyên sau triển khai](5.5-Multi-Service-Integration/)
 6. [Kịch bản kiểm thử luồng nghiệp vụ thực tế](5.6-System-Operation-Testing/)
 7. [Quy trình dọn dẹp giải phóng tài nguyên](5.7-Cleanup/)
+8. [Tài nguyên bổ sung](5.8-Additional-Resources/)
