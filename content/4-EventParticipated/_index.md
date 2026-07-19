@@ -1,12 +1,12 @@
 ---
-title: "Events Participated"
+title: "Attended Events"
 date: 2024-01-01
 weight: 4
 chapter: false
 pre: " <b> 4. </b> "
 ---
 
-# Events Participated
+# Attended Events
 
 During the internship, I participated in the following community events on Cloud Computing, Generative AI, and Agentic AI.
 
@@ -20,4 +20,3 @@ During the internship, I participated in the following community events on Cloud
 **Theme:** Cloud, AI & Agentic Applications in Modern Enterprises  
 **Role:** Attendee  
 **Focus:** Cloud careers, Agentic AI, Voice AI, AWS DevOps Agent, and AI for human-resource management.
-

@@ -5,70 +5,135 @@ chapter: false
 pre: " <b> 4.2. </b> "
 ---
 
-# FCAJ Community Day June 2026
+# Event Report 2: AWS Learning, Hackathon, Confidence and Procrastination
 
-**Theme:** Cloud, AI & Agentic Applications in Modern Enterprises
+📌 **Info:** Event report on AWS Cloud Quest, Floci, the hackathon journey, confidence, the *Tử Vi Đại Việt* project, and overcoming procrastination.
 
-## Event objectives
+## Purpose of the event
 
-- Share trends in Cloud Computing and AI for modern enterprises.
-- Introduce Agentic AI and DevOps Agent applications for system operations.
-- Provide practical career perspectives for Cloud and AI roles.
-- Introduce Voice AI, AI Agents, and enterprise AI solutions.
-- Show how AI can support DevOps, system operations, and human-resource management.
+The event provided students with a broader view of the technical and personal skills needed in technology. It covered AWS learning as well as practical topics such as hackathons, product development, confidence, and overcoming procrastination.
+
+The event aimed to:
+
+- Introduce visual, accessible tools for learning and practicing AWS.
+- Share practical hackathon experience: teamwork, debugging, time pressure, and product completion.
+- Explain the role of confidence in study, communication, interviews, and career growth.
+- Present a practical career-transition journey and a real product.
+- Analyze procrastination, its causes, and ways to improve.
 
 ## Speakers
 
-- Truong Tran — AI Solution Sales, Noventiq
-- Steve Tran — CTO/Founder, CloudThinker
-- Trung Vu — CEO, Revve AI
-- Anh Dang — Solution Sales, Noventiq
-- Nghi Danh — AI Engineer, Renova Cloud
-- Kiet Tran — AI Engineer, AWS Student Builder Group
-- Bao Phan and Nguyen Nguyen — Cloud Engineer, Cloud Kinetics
-- Toan Nguyen — AWS Security Builder
+- **Huynh Thai Linh** — *Level Up Your AWS Skills with Cloud Quest and Floci*
+- **The Baller:** Huynh An Khuong, Mai Quoc Anh, Nguyen Tran Minh Quan — *HACKATHON “HA! a tons” “of fun” “and bug fixes” “and back pains” “and sleep deprivation”*
+- **Nguyen Thi Quynh Nhu** — *Why We Always Need Confidence*
+- **Nghia Tran** — Career-transition journey and the *Tử Vi Đại Việt* project
+- **Khac Uy Pham** — *The Iceberg of Procrastination — When “Laziness” Is Just the Tip of Fear*
 
-## Key sessions
+## Key highlights
 
-### 1. Cloud, AI, and career opportunities
+### 1. Level Up Your AWS Skills with Cloud Quest and Floci
 
-This session covered the path from Developer to Solution Architect, the development of Cloud Computing in Vietnam and globally, and AI's impact on the technology job market. Continuous learning and early practical experience are essential: AI will not completely replace technology engineers, but it will change how they work.
+Huynh Thai Linh introduced **AWS Cloud Quest** and **Floci**, two tools that make cloud learning and practice more visual and hands-on.
 
-### 2. Agentic AI for system operations
+#### AWS Cloud Quest
 
-As systems move to microservices, logs, monitoring, and observability data grow rapidly, while incident investigation and infrastructure costs increase. An Agentic Platform can automate incident investigation, support Cloud cost optimization (FinOps), assist security testing, and improve the operations team's productivity.
+AWS Cloud Quest is an AWS learning platform presented as a 3D game. Learners complete cloud-related missions in a simulated city environment and develop that city as they progress.
 
-### 3. Voice AI and AI Agents
+Key features include:
 
-Voice AI can use either a Speech-to-Speech architecture or **Speech-to-Text → LLM → Text-to-Speech**. The demonstration built a Voice Assistant on Amazon Bedrock, used a Knowledge Base for domain knowledge, and integrated AI Agents to answer product questions. Vietnamese is a low-resource language, so it needs data and models suited to the Vietnamese market.
+- Theory and hands-on practice combined in specific missions.
+- Videos, quizzes, and practical exercises.
+- Missions based on real-world cloud scenarios.
+- Learning paths for compute, storage, databases, and security.
+- Progress tracking and rewards.
 
-### 4. AWS DevOps Agent
+Instead of only reading documentation, learners interact with concrete scenarios and gain a clearer understanding of how AWS services work in practice.
 
-AWS DevOps Agent provides Context Learning, Memory, and Skill Learning. It integrates with CloudWatch, Slack, and ServiceNow, supports root-cause analysis, and recommends remediation and long-term improvements. The workflow is: trigger an incident, classify and investigate it, recommend a response, then recommend longer-term improvements.
+#### Floci
 
-### 5. AI for human-resource management
+Floci is an open-source tool that emulates AWS environments locally, enabling developers to build and test AWS services without deploying to the real cloud.
 
-AI can automatically analyze candidate profiles, generate data to support recruitment, provide workforce insights, and help build more effective HR strategies. These capabilities reduce CV-screening time, improve candidate evaluation, and reduce the workload associated with hiring.
+- Runs multiple AWS services on a personal computer.
+- Does not require an AWS account or usage costs.
+- Integrates with AWS CLI, AWS SDK, Terraform, CDK, and testing tools.
+- Supports services including S3, SQS, SNS, DynamoDB, Lambda, IAM, KMS, Secrets Manager, and SSM.
+- Can be used in development, testing, and CI.
 
-## Key takeaways
+Floci reduces both experimentation cost and risk. Learners can test logic, APIs, and systems before deploying to AWS, which is especially useful for students and small projects.
 
-- AI is strongly changing how software is built and operated; Cloud and AI are essential technology trends.
-- Agentic AI can support system operations, while DevOps Agents help streamline incident response.
-- Voice AI and AI Agents can be built on AWS with services such as Amazon Bedrock.
-- Continuous learning and proactive adaptation are vital for career growth.
+### 2. The Baller's hackathon journey
 
-## Applying the learning
+The Baller shared the reality of working in a short-time programming competition: forming ideas, dividing team responsibilities, working under time pressure, continuously debugging, managing lack of sleep, and completing a product before the deadline.
 
-- Research AI Agent integration for management and monitoring systems.
-- Explore Amazon Bedrock for project chatbots and Voice Assistants.
-- Apply AI tools to support software development and operations.
-- Strengthen Cloud and DevOps skills to meet future hiring requirements.
+Hackathons develop practical skills such as:
 
-## Experience and lessons learned
+- Fast problem solving and adaptation.
+- Teamwork and communication.
+- Product presentation.
+- Debugging under pressure.
+- Effective time management.
 
-FCAJ Community Day June 2026 provided a meaningful opportunity to learn about Cloud Computing, AI Agents, and modern DevOps. The sessions on Agentic AI and AWS DevOps Agent highlighted new opportunities to automate system operations and clarified what enterprises expect from Cloud and AI engineers.
+They also offer opportunities to meet capable people, broaden professional relationships, and discover career opportunities.
 
-AI does not completely replace people; it supports and amplifies engineers' capabilities. Cloud, DevOps, and AI are converging to create more automated and intelligent systems, so active learning, practical experience, and understanding business needs are essential to building effective solutions.
+### 3. Why we always need confidence
+
+Nguyen Thi Quynh Nhu discussed confidence as an essential skill for study and personal development.
+
+Confidence helps students present ideas clearly, communicate effectively in study and teamwork, perform better in interviews, and take on new opportunities. A lack of confidence can cause people to hesitate, undervalue their abilities, and miss opportunities to grow.
+
+Ways to improve confidence include preparing carefully for presentations or interviews, starting with small actions, participating actively in projects, and treating mistakes as part of learning. Confidence should be grounded in real ability and balanced with honest self-assessment.
+
+### 4. Career transition and the *Tử Vi Đại Việt* project
+
+Nghia Tran shared his career-transition journey and the development of the *Tử Vi Đại Việt* project, which combines technology with traditional astrology knowledge.
+
+The system lets users enter personal information, generates an astrology chart, analyzes it with AI or an analysis system, and offers different levels of analysis based on the service package. It can also involve experts for deeper insights.
+
+The project showed that a real product needs more than technical implementation: it also requires domain knowledge, data, and a clear understanding of user needs.
+
+### 5. The iceberg of procrastination
+
+Khac Uy Pham explained procrastination through an iceberg model. Procrastination is not simply laziness; its causes can include fear of failure, lack of confidence, or not knowing where to start. Overthinking can lead to inaction, while starting with small steps reduces pressure and makes action easier.
+
+The key message was to act early instead of waiting for perfect conditions.
+
+## What was learned
+
+### AWS
+
+- Cloud Quest makes AWS learning more visual and accessible.
+- Floci supports local AWS practice and testing effectively.
+- Combining theory with hands-on practice leads to deeper understanding.
+
+### Hackathon
+
+- Builds practical skills and the ability to work under pressure.
+- Strengthens teamwork and expands professional relationships.
+
+### Confidence
+
+- Helps people show their abilities more effectively.
+- Must be practiced continuously and supported by real ability.
+
+### Product development and procrastination
+
+- Product development requires both technical skill and domain knowledge.
+- Understanding users is essential.
+- Procrastination has deeper causes and can be addressed through small, early actions rather than waiting for perfection.
+
+## Application to work
+
+- Use Cloud Quest to study AWS and Floci for practice and testing.
+- Participate in hackathons to gain practical experience.
+- Build confidence through consistent practice.
+- Develop projects with a clear direction and understanding of users.
+- Take proactive action to avoid procrastination.
+
+## Event experience and key takeaways
+
+The event gave participants an overview of important technical and personal-development topics. Its sessions combined theory with practical experience, from AWS learning and hackathons to confidence and career growth.
+
+Combining learning with practice improves effectiveness. Practical experience is as important as theory, soft skills matter, and proactive early action creates opportunities.
 
 ---
 
