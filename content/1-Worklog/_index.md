@@ -9,7 +9,7 @@ pre: " <b> 1. </b> "
 This worklog summarizes the weekly learning progress, hands-on AWS practice, and the VDCMS capstone project completed during the **First Cloud AI Journey** internship. The content below follows a concise weekly outline with links to each week's detailed notes.
 
 <div class="note" style="background:#e9f5fb;border-left:4px solid #5aa9e6;padding:12px;margin-bottom:1rem;">
-<strong>Info:</strong> Learning and hands-on journal across 12 internship weeks, from 17/04/2026 to 10/07/2026.
+<strong>Info:</strong> Learning and hands-on journal across 12 internship weeks, from 17/04/2026 to 30/07/2026.
 </div>
 
 Over 12 internship weeks, I studied and practiced AWS services from foundational topics to advanced concepts, completed hands-on labs, and built the Voice-Driven Construction Management System (VDCMS) capstone project.

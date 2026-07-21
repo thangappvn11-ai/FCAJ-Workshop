@@ -9,7 +9,7 @@ pre: " <b> 1. </b> "
 Worklog này tổng hợp tiến độ học tập, thực hành AWS và triển khai dự án VDCMS trong quá trình thực tập **First Cloud AI Journey**. Nội dung dưới đây trình bày tóm tắt theo tuần với liên kết tới ghi chú chi tiết của từng tuần.
 
 <div class="note" style="background:#f7f8fa;border-left:4px solid #e0a84f;padding:12px;margin-bottom:1rem;">
-<strong>Ghi chú:</strong> Nhật ký học tập và thực hành trong 12 tuần thực tập, từ 17/04/2026 đến 10/07/2026.
+<strong>Ghi chú:</strong> Nhật ký học tập và thực hành trong 12 tuần thực tập, từ 17/04/2026 đến 30/07/2026.
 </div>
 
 Trong 12 tuần, tôi đã nghiên cứu và thực hành các dịch vụ AWS từ cơ bản tới nâng cao, hoàn thành các lab thực hành và xây dựng dự án VDCMS.

@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 6. </b> "
 ---
 
-During my internship at **Amazon Web Services Vietnam Co., Ltd.** from **17/04/2026 to 10/07/2026**, I had the opportunity to learn AWS fundamentals, practice with cloud services, translate and write technical content, prepare a hands-on workshop, and design the proposal for **VDCMS - Voice-Driven Content Management System**.
+During my internship at **Amazon Web Services Vietnam Co., Ltd.** from **17/04/2026 to 30/07/2026**, I had the opportunity to learn AWS fundamentals, practice with cloud services, translate and write technical content, prepare a hands-on workshop, and design the proposal for **VDCMS - Voice-Driven Content Management System**.
 
 Through these activities, I improved my knowledge of cloud architecture, networking, security, storage, database services, asynchronous processing, technical documentation, and presentation of technical ideas. I also learned how to approach a project from requirements analysis to architecture design, cost estimation, testing, and cleanup.
 

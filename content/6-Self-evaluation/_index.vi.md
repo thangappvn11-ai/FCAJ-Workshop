@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 6. </b> "
 ---
 
-Trong thời gian thực tập tại **Công ty TNHH Amazon Web Services Vietnam** từ ngày **17/04/2026 đến 10/07/2026**, tôi có cơ hội tìm hiểu nền tảng AWS, thực hành với các dịch vụ cloud, dịch và viết nội dung kỹ thuật, chuẩn bị workshop thực hành, đồng thời thiết kế proposal cho hệ thống **VDCMS - Voice-Driven Content Management System**.
+Trong thời gian thực tập tại **Công ty TNHH Amazon Web Services Vietnam** từ ngày **17/04/2026 đến 30/07/2026**, tôi có cơ hội tìm hiểu nền tảng AWS, thực hành với các dịch vụ cloud, dịch và viết nội dung kỹ thuật, chuẩn bị workshop thực hành, đồng thời thiết kế proposal cho hệ thống **VDCMS - Voice-Driven Content Management System**.
 
 Thông qua các hoạt động này, tôi đã cải thiện kiến thức về kiến trúc cloud, networking, bảo mật, storage, database, xử lý bất đồng bộ, tài liệu kỹ thuật và cách trình bày ý tưởng kỹ thuật. Tôi cũng học được cách tiếp cận một dự án từ phân tích yêu cầu, thiết kế kiến trúc, ước tính chi phí, kiểm thử đến dọn dẹp tài nguyên.
 
